@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NajatNaamani
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web application projects
 - 📫 How to reach me: Email: n.alnaamani@gmail.com, Linked-in: https://www.linkedin.com/in/najatalnaamani/
 
 <!---
